@@ -1,0 +1,6 @@
+* Important points :-
+
+1. Used Google fonts to download the Text style. Type Google Fonts on google and you will get the links.
+2. Used Normalization to keep the webpage constant in different devices. Type normalization.css or normalize.css on google and get the link.
+3. Used Font Awesome cdn to import the css file on the webpage. Type font awesome cdn on google to get the link.
+4. Used Font Awesome Icons to import the icons on the webpage. Type font awesome icons on google and get the link to addd icons on your project/website.
